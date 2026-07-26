@@ -1,0 +1,15 @@
+{
+	"name": "datafactorylikhitha",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f1b45a50-2fd0-4787-83ce-3b982912ea53",
+		"tenantId": "69eadf3d-171b-49bc-a339-40bc541d0f5e"
+	}
+}
