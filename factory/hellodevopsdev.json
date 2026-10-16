@@ -1,0 +1,15 @@
+{
+	"name": "hellodevopsdev",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b9d0d2d1-8e6a-4e1b-920a-f09b7965b6ed",
+		"tenantId": "947ca08b-7c5f-445c-b9b2-808268173c12"
+	}
+}
